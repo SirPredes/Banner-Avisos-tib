@@ -1,0 +1,17 @@
+assemble:
+    -   from: vite-build
+        into: static
+banner-avisos-tib:
+    cssURLs:
+        -   "assets/*.css"
+    friendlyURLMapping: banner-avisos-tib
+    htmlElementName: banner-avisos-tib
+    instanceable: false
+    name: Banner avisos tib
+    portletCategoryName: category.client-extensions
+    properties:
+        foo: bar
+    type: customElement
+    urls:
+        -   "assets/*.js"
+    useESM: true
