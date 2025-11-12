@@ -1,0 +1,412 @@
+[
+    {
+        "lineCode": "101",
+        "lineId": 234,
+        "lineName": "Port d'Andratx - Palma"
+    },
+    {
+        "lineCode": "102",
+        "lineId": 237,
+        "lineName": "Peguera - Palma"
+    },
+    {
+        "lineCode": "103",
+        "lineId": 3145,
+        "lineName": "Santa Ponça - Palma"
+    },
+    {
+        "lineCode": "104",
+        "lineId": 241,
+        "lineName": "Magaluf - Palma"
+    },
+    {
+        "lineCode": "105",
+        "lineId": 242,
+        "lineName": "Sol de Mallorca -  Palma"
+    },
+    {
+        "lineCode": "106",
+        "lineId": 240,
+        "lineName": "El Toro - Palma"
+    },
+    {
+        "lineCode": "107",
+        "lineId": 239,
+        "lineName": "Es Capdellà - Palma"
+    },
+    {
+        "lineCode": "108",
+        "lineId": 244,
+        "lineName": "Son Caliu - Palma"
+    },
+    {
+        "lineCode": "121",
+        "lineId": 233,
+        "lineName": "Sant Elm - Andratx"
+    },
+    {
+        "lineCode": "122",
+        "lineId": 235,
+        "lineName": "Port d'Andratx - Santa Ponça"
+    },
+    {
+        "lineCode": "123",
+        "lineId": 236,
+        "lineName": "Santa Ponça - Cas Català"
+    },
+    {
+        "lineCode": "131",
+        "lineId": 3155,
+        "lineName": "Santa Ponça - Banyalbufar"
+    },
+    {
+        "lineCode": "201",
+        "lineId": 222,
+        "lineName": "Galilea - Palma"
+    },
+    {
+        "lineCode": "202",
+        "lineId": 243,
+        "lineName": "Estellencs - Palma"
+    },
+    {
+        "lineCode": "203",
+        "lineId": 3013,
+        "lineName": "Valldemossa / Deià"
+    },
+    {
+        "lineCode": "204",
+        "lineId": 3014,
+        "lineName": "Port de Sóller - Palma"
+    },
+    {
+        "lineCode": "205",
+        "lineId": 223,
+        "lineName": "Bunyola - Palma"
+    },
+    {
+        "lineCode": "231",
+        "lineId": 3119,
+        "lineName": "Port de Sóller - Alcúdia"
+    },
+    {
+        "lineCode": "232",
+        "lineId": 3015,
+        "lineName": "Port de Sóller - Fornalutx"
+    },
+    {
+        "lineCode": "301",
+        "lineId": 3016,
+        "lineName": "Port de Pollença - Palma"
+    },
+    {
+        "lineCode": "302",
+        "lineId": 3017,
+        "lineName": "Can Picafort - Palma"
+    },
+    {
+        "lineCode": "303",
+        "lineId": 224,
+        "lineName": "Bunyola - H. Joan March - Palma"
+    },
+    {
+        "lineCode": "304",
+        "lineId": 3018,
+        "lineName": "Inca - Sencelles - Palma"
+    },
+    {
+        "lineCode": "311",
+        "lineId": 3019,
+        "lineName": "Mancor de la Vall - Inca"
+    },
+    {
+        "lineCode": "312",
+        "lineId": 3020,
+        "lineName": "Lluc - Inca - Muro"
+    },
+    {
+        "lineCode": "313",
+        "lineId": 3154,
+        "lineName": "Selva - Inca"
+    },
+    {
+        "lineCode": "314",
+        "lineId": 3021,
+        "lineName": "Campanet / Búger"
+    },
+    {
+        "lineCode": "315",
+        "lineId": 3123,
+        "lineName": "Sa Pobla - Badia d'Alcúdia"
+    },
+    {
+        "lineCode": "316",
+        "lineId": 3022,
+        "lineName": "Son Serra - Inca"
+    },
+    {
+        "lineCode": "321",
+        "lineId": 3023,
+        "lineName": "Cala de Sant Vicenç"
+    },
+    {
+        "lineCode": "322",
+        "lineId": 3024,
+        "lineName": "Pollença - Port d'Alcúdia"
+    },
+    {
+        "lineCode": "323",
+        "lineId": 3148,
+        "lineName": "Alcanada - Es Mal Pas"
+    },
+    {
+        "lineCode": "324",
+        "lineId": 3100,
+        "lineName": "Can Picafort - Alcúdia"
+    },
+    {
+        "lineCode": "325",
+        "lineId": 3149,
+        "lineName": "Alcúdia - Cala Rajada"
+    },
+    {
+        "lineCode": "327",
+        "lineId": 3157,
+        "lineName": "Alcúdia - Estany Petit"
+    },
+    {
+        "lineCode": "331",
+        "lineId": 3026,
+        "lineName": "Alaró - Orient"
+    },
+    {
+        "lineCode": "334",
+        "lineId": 3106,
+        "lineName": "Alcúdia - Formentor"
+    },
+    {
+        "lineCode": "341",
+        "lineId": 225,
+        "lineName": "Pòrtol - Son Llàtzer - FAN"
+    },
+    {
+        "lineCode": "342",
+        "lineId": 3027,
+        "lineName": "Alaró - Estació - Consell"
+    },
+    {
+        "lineCode": "343",
+        "lineId": 3130,
+        "lineName": "Santa Eugènia - Santa Maria"
+    },
+    {
+        "lineCode": "401",
+        "lineId": 3066,
+        "lineName": "Cala Millor - Palma"
+    },
+    {
+        "lineCode": "403",
+        "lineId": 3068,
+        "lineName": "Campos - Algaida - Palma"
+    },
+    {
+        "lineCode": "411",
+        "lineId": 3129,
+        "lineName": "Cala Rajada - Manacor"
+    },
+    {
+        "lineCode": "411e",
+        "lineId": 3158,
+        "lineName": "Cala Rajada - Palma"
+    },
+    {
+        "lineCode": "412",
+        "lineId": 3126,
+        "lineName": "Costa dels Pins - Manacor"
+    },
+    {
+        "lineCode": "416",
+        "lineId": 3071,
+        "lineName": "Cales de Mallorca - Manacor"
+    },
+    {
+        "lineCode": "417",
+        "lineId": 3072,
+        "lineName": "Porreres - Manacor - Son Carrió"
+    },
+    {
+        "lineCode": "421",
+        "lineId": 3028,
+        "lineName": "Colònia de Sant Pere - Artà"
+    },
+    {
+        "lineCode": "422",
+        "lineId": 247,
+        "lineName": "Cala Mesquida - Cala Rajada"
+    },
+    {
+        "lineCode": "423",
+        "lineId": 249,
+        "lineName": "Font de sa Cala - Cala Rajada"
+    },
+    {
+        "lineCode": "424",
+        "lineId": 254,
+        "lineName": "Cala Rajada - Portocristo"
+    },
+    {
+        "lineCode": "425",
+        "lineId": 3132,
+        "lineName": "Cala Bona - Portocristo"
+    },
+    {
+        "lineCode": "427",
+        "lineId": 3131,
+        "lineName": "Cala Mendia - Portocristo"
+    },
+    {
+        "lineCode": "428",
+        "lineId": 3138,
+        "lineName": "Cala d'Or - Portocristo"
+    },
+    {
+        "lineCode": "431d",
+        "lineId": 3147,
+        "lineName": "Algaida - Llucmajor"
+    },
+    {
+        "lineCode": "432",
+        "lineId": 3150,
+        "lineName": "Sineu - Algaida"
+    },
+    {
+        "lineCode": "441",
+        "lineId": 3073,
+        "lineName": "Ariany - Maria - Sineu"
+    },
+    {
+        "lineCode": "442",
+        "lineId": 3074,
+        "lineName": "Sant Joan"
+    },
+    {
+        "lineCode": "501",
+        "lineId": 3075,
+        "lineName": "Manacor - Campos - Palma"
+    },
+    {
+        "lineCode": "501e",
+        "lineId": 3127,
+        "lineName": "Campos - Palma, exprés"
+    },
+    {
+        "lineCode": "504",
+        "lineId": 3078,
+        "lineName": "Tolleric - Palma"
+    },
+    {
+        "lineCode": "505",
+        "lineId": 3136,
+        "lineName": "Cala Pi - Tolleric"
+    },
+    {
+        "lineCode": "508",
+        "lineId": 3135,
+        "lineName": "Sa Ràpita - Palma"
+    },
+    {
+        "lineCode": "512",
+        "lineId": 3080,
+        "lineName": "Portocolom - Felanitx"
+    },
+    {
+        "lineCode": "514",
+        "lineId": 3081,
+        "lineName": "Cala d'Or - Felanitx - Porreres"
+    },
+    {
+        "lineCode": "515",
+        "lineId": 3082,
+        "lineName": "Cala d'Or - Campos"
+    },
+    {
+        "lineCode": "515e",
+        "lineId": 3160,
+        "lineName": "Cala d'Or - Palma"
+    },
+    {
+        "lineCode": "516",
+        "lineId": 3083,
+        "lineName": "Cala Figuera - Campos"
+    },
+    {
+        "lineCode": "517",
+        "lineId": 3084,
+        "lineName": "Santanyí - Colònia de Sant Jordi - Campos"
+    },
+    {
+        "lineCode": "518",
+        "lineId": 3146,
+        "lineName": "Sa Ràpita - Campos"
+    },
+    {
+        "lineCode": "519d",
+        "lineId": 3086,
+        "lineName": "Cala Pi - Llucmajor"
+    },
+    {
+        "lineCode": "521",
+        "lineId": 3102,
+        "lineName": "Cala d'Or - Cala Mondragó"
+    },
+    {
+        "lineCode": "A11",
+        "lineId": 3111,
+        "lineName": "Peguera - Aeroport"
+    },
+    {
+        "lineCode": "A32",
+        "lineId": 3113,
+        "lineName": "Can Picafort - Aeroport"
+    },
+    {
+        "lineCode": "A33",
+        "lineId": 3226,
+        "lineName": "Port d'Alcúdia - Aeroport"
+    },
+    {
+        "lineCode": "A42",
+        "lineId": 3114,
+        "lineName": "Cala Bona - Aeroport"
+    },
+    {
+        "lineCode": "A43",
+        "lineId": 3225,
+        "lineName": "Manacor - Aeroport"
+    },
+    {
+        "lineCode": "A51",
+        "lineId": 3121,
+        "lineName": "Campos - Aeroport"
+    },
+    {
+        "lineCode": "M1",
+        "lineId": 216,
+        "lineName": "Palma - UIB - ParcBit"
+    },
+    {
+        "lineCode": "T1",
+        "lineId": 218,
+        "lineName": "Palma - Inca"
+    },
+    {
+        "lineCode": "T2",
+        "lineId": 219,
+        "lineName": "Palma - sa Pobla"
+    },
+    {
+        "lineCode": "T3",
+        "lineId": 220,
+        "lineName": "Palma - Manacor"
+    }
+]

@@ -22,7 +22,7 @@ class WebComponent extends HTMLElement {
   }
 }
 
-const ELEMENT_NAME = 'banner-avisos-tib';
+const ELEMENT_NAME = 'ctm-notice';
 
 if (customElements.get(ELEMENT_NAME)) {
   console.log(`Skipping registration for <${ELEMENT_NAME}> (already registered)`);

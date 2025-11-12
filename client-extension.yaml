@@ -4,10 +4,10 @@ assemble:
 banner-avisos-tib:
     cssURLs:
         -   "assets/*.css"
-    friendlyURLMapping: banner-avisos-tib
-    htmlElementName: banner-avisos-tib
+    friendlyURLMapping: ctm-notice
+    htmlElementName: ctm-notice
     instanceable: false
-    name: Banner avisos tib
+    name: ctm-notice
     portletCategoryName: category.client-extensions
     properties:
         foo: bar
