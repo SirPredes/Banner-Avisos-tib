@@ -59,7 +59,7 @@ export function NoticeBanner(){
             <div className="notice-container" style={closed ? {display: 'none'} : {}}>
                 <div className="notice-content">
                     <div className='notice-left-banner'>
-                        <div className='notice-warning-next'>
+                        <div className='notice-warning-previous'>
                             <div className="notices-icon-container">
                                 <img className="notices-icon" 
                                     src={warningImg} 
@@ -69,7 +69,7 @@ export function NoticeBanner(){
                                     <p className="notices-number">{notices.length}</p>
                                 </div>
                             </div>
-                            <div className={`notices-previous`}
+                            <div className={`notice-previous`}
                                 onClick={handlePrevious}
                                 style={{visibility: currentIndex === 0 ? 'hidden' : 'visible'}}
                             >

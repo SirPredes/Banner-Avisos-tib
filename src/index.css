@@ -25,6 +25,7 @@
 .notice-container .notice-left-banner{
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .notice-container .notice-right-banner{
@@ -36,10 +37,11 @@
   width: 4rem;
 }
 
-.notice-container .notice-warning-next{
+.notice-container .notice-warning-previous{
   display: flex;
 
   padding: 0 2rem;
+  padding-right: 0;
 }
 
 .notice-container .notices-icon-container{
@@ -62,26 +64,40 @@
 
 .notices-icon-number p{
   position: absolute;
-  top: 15%;
+  top: 0%;
+  left: 115%;
 }
 
 .notices-icon img{
   align-items: center;
 }
 
-.notice-container .notices-previous,
-.notice-container .notices-next{
+.notice-container .notice-previous,
+.notice-container .notice-next{
   display: flex;
 
   width: 20px;
-  height: auto;
+  height: 40px;
 
   padding: 0 0.5rem;
+  padding-right: 0;
 
+  align-items: center;
+}
+
+.notice-container .notice-previous img,
+.notice-container .notice-next img{
+  width: 20px;
+  height: 40px;
 }
 
 .notice-container .notices-icon-container{
   display: flex;
+  margin-right: 20px;
+}
+
+.notice-container .notice-info{
+  margin-left: 1rem;
 }
 
 .notice-info .notice-info-header,
